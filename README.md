@@ -1,22 +1,24 @@
-# 👋 Hi, I'm Oshadhi Senarathna
+👋 Hi, I'm Oshadhi Senarathna
 
-### 💻 Software Engineering Student | Backend & Full-Stack Developer
+💻 Software Engineering Undergraduate | Java & Full-Stack Development
 
-I'm a **Software Engineering student at NIBM** with an interest in building practical and scalable web applications. I'm currently focusing on **Java, Spring Boot, REST APIs, MySQL, and React**, while continuously improving my software development and problem-solving skills.
+I'm a Software Engineering undergraduate at NIBM with a passion for building practical software solutions and learning modern development technologies.
 
-I'm also exploring **Spring Security, microservices, Docker, and modern web technologies** as I work on real-world projects.
+I'm currently focusing on Java, Spring Boot, REST APIs, MySQL, and React, while strengthening my understanding of software engineering principles, database design, and problem-solving.
 
-📍 **Kurunegala, Sri Lanka**
-🎓 **NIBM — Higher National Diploma in Software Engineering**
-💼 **Open to Software Engineering Internships & Freelance Projects**
+I enjoy turning real-world problems into functional, user-friendly software applications and continuously improving my development skills through academic and personal projects.
+
+📍 Kurunegala, Sri Lanka
+🎓 NIBM — Software Engineering Undergraduate
+💼 Open to Software Engineering Internships & Opportunities
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janana2006)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oshadhisenarathna)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmoshadhisenarathna@gmail.com)
 
 ---
 
@@ -93,34 +95,42 @@ The system manages:
 
 `React` `Java` `Spring Boot` `MySQL` `REST API`
 
-### 💊 Medical Laboratory System
 
-A backend-driven Medical Laboratory Management System built with Spring Boot to handle end-to-end laboratory operations.
+###🧪 Medical Laboratory Report Management System
 
-The system manages:
+A web-based system designed to streamline laboratory operations and improve the management of patients, laboratory tests, reports, appointments, and billing.
 
-* 🔐 User authentication & authorization (Spring Security)
-* 💊 Medicine & inventory management
-* 🧾 Billing and bill returns
-* 📥 GRN (Goods Received Note) & purchase orders from suppliers
-* 🚚 Supplier management
-* 📧 Email notifications (Spring Mail)
-* 🧾 PDF invoice generation (iText)
-* 🔔 System notifications
+The system includes:
+
+* 🔐 Secure staff authentication & role-based access
+* 👤 Patient management
+* 🧪 Laboratory test management
+* 📅 Appointment management
+* 🧾 Invoice & billing management
+* 📄 Laboratory report management
+* 📱 Patient portal
+* 🔒 JWT-based authentication
+* 📧 Email notifications
+* 📄 PDF report generation
+* 🔳 QR-based report verification
 
 **Built with:**
 
-`Java` `Spring Boot` `Spring Security` `MySQL` `REST API` `iText PDF`
+"Java" "Spring Boot" "Spring Security" "React" "MySQL" "REST API"
 
 
-## 📈 GitHub Activity
+##📊 GitHub Statistics
 
-<div align="center">
+<div align="center">"Oshadhi's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=oshadhisenarathna&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janana2006&show_icons=true&theme=tokyonight&hide_border=true)
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhisenarathna&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janana2006&layout=compact&theme=tokyonight&hide_border=true)
+</div>---
 
-</div>
+##🌱 My Goal
+
+«Learn continuously. Build meaningful projects. Grow into a skilled software engineer.»
 
 ---
+
+⭐ Thanks for visiting my profile!
