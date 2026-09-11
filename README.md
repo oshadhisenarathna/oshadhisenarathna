@@ -1,6 +1,6 @@
-👋 Hi, I'm Oshadhi Senarathna
+# 👋 Hi, I'm Oshadhi Senarathna
 
-💻 Software Engineering Undergraduate | Java & Full-Stack Development
+### 💻 Software Engineering Undergraduate | Java & Full-Stack Development
 
 I'm a Software Engineering undergraduate at NIBM with a passion for building practical software solutions and learning modern development technologies.
 
@@ -8,9 +8,9 @@ I'm currently focusing on Java, Spring Boot, REST APIs, MySQL, and React, while 
 
 I enjoy turning real-world problems into functional, user-friendly software applications and continuously improving my development skills through academic and personal projects.
 
-📍 Kurunegala, Sri Lanka
-🎓 NIBM — Software Engineering Undergraduate
-💼 Open to Software Engineering Internships & Opportunities
+📍 **Kurunegala, Sri Lanka**
+🎓 **NIBM — Software Engineering Undergraduate**
+💼 **Open to Software Engineering Internships & Opportunities**
 
 ---
 
@@ -75,7 +75,7 @@ I enjoy turning real-world problems into functional, user-friendly software appl
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 🏍️ Vehicle Parts Management System
 
@@ -91,12 +91,9 @@ The system manages:
 * 👥 Role-based dashboards
 * 💰 Product purchasing and selling prices
 
-**Built with:**
+**Built with:** `React` `Java` `Spring Boot` `MySQL` `REST API`
 
-`React` `Java` `Spring Boot` `MySQL` `REST API`
-
-
-###🧪 Medical Laboratory Report Management System
+### 🧪 Medical Laboratory Report Management System
 
 A web-based system designed to streamline laboratory operations and improve the management of patients, laboratory tests, reports, appointments, and billing.
 
@@ -114,23 +111,30 @@ The system includes:
 * 📄 PDF report generation
 * 🔳 QR-based report verification
 
-**Built with:**
-
-"Java" "Spring Boot" "Spring Security" "React" "MySQL" "REST API"
-
-
-##📊 GitHub Statistics
-
-<div align="center">"Oshadhi's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=oshadhisenarathna&show_icons=true&theme=tokyonight&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhisenarathna&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>---
-
-##🌱 My Goal
-
-«Learn continuously. Build meaningful projects. Grow into a skilled software engineer.»
+**Built with:** `Java` `Spring Boot` `Spring Security` `React` `MySQL` `REST API`
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![Oshadhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oshadhisenarathna&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhisenarathna&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 My Goal
+
+> Learn continuously. Build meaningful projects. Grow into a skilled software engineer.
+
+---
+
+<div align="center">
+
 ⭐ Thanks for visiting my profile!
+
+</div>
